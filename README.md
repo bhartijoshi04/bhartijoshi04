@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bharti Joshi
-- 👀 I’m interested in AI/ML
-- 🌱 I’m currently focusing on deep learning
+- 👀 Aspiring AI developer
+- 🌱 I’m currently focusing on Agents
 - 📫 How to reach me joshibharti122@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I do journaling 
