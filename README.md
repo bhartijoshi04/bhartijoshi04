@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bharti Joshi
-- 👀 Aspiring AI developer
+- 👀 Aspiring AI Engineer
 - 🌱 I’m currently focusing on Agents
 - 📫 How to reach me joshibharti122@gmail.com
 - 😄 Pronouns: she/her
